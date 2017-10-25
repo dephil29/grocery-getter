@@ -1,0 +1,21 @@
+.remove{
+  display: flex;
+  align-self: flex-end;
+  justify-content: flex-end;
+}
+
+.wrapper{
+  display: flex;
+  flex-direction: row;
+  align-items:flex-end;
+  padding: 5px;
+  margin-bottom: 20px;
+  background: #fcfcfc;
+}
+
+.wrapper-text{
+  margin: 0;
+  display: flex;
+  align-self: flex-start;
+  justify-content: center;
+}

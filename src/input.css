@@ -1,0 +1,17 @@
+button{
+  background-color: #7fe676;
+  color: #fafafa;
+  border-radius: 100%;
+  border-style: none;
+}
+
+
+button:focus, input:focus{
+  outline: 0;
+}
+
+input{
+  border-style: none;
+  background-color: #fcfcfc;
+  color: #b1b1b1;
+}
